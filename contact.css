@@ -1,0 +1,191 @@
+.main
+{
+    height:350px;
+    width: auto;
+    background-color: rgb(105, 200, 255);
+    margin: -7px;
+   
+}
+.diva
+{
+    height: 30px;
+    width: auto;
+    
+    margin-top: -15px;
+}
+.logo
+{
+    height: 30px;
+    width: 220px;
+   
+    display: inline-block;
+}
+.logoh
+{
+    color: rgb(0, 0, 0);
+    font-size:x-large;
+    padding: 0 0 0 5px;
+}
+.menu
+{
+    display: inline-block;
+    height:30px;
+    width: 920px;
+    
+}
+.olamenu li
+{
+    list-style: none;
+    display: inline;
+    margin: 19px;
+}
+.olamenu li a
+{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+   padding: 2px;
+   font-family:comic sans;
+}
+.banner
+{
+    display: inline-block;
+    height:30px;
+    width: 100px;
+   
+}
+.banner img
+{
+    height: 100px;
+    margin: 0 0 -30px 0;    
+}
+.content
+{
+    height: 420px;
+    width: 800px;
+    margin: 130px auto;
+    box-shadow: 1px 5px 30px gray;
+    
+}
+.content1
+{
+    background-color:rgb(255, 255, 255);
+    height: 420px;
+    width: 440px;
+    margin: 130px auto;
+    float: left;
+    margin:auto;
+    border-radius: 5px 0 0 0;
+}
+.content2
+{
+    background-color: rgb(104, 62, 255);
+    height: 420px;
+    width: 360px;
+    margin: 130px auto;
+    float: right;
+    margin:auto;
+    border-radius: 0 5px 0 0;
+}
+.content2 h3
+{
+    color:white;
+    text-align: center;
+    font-family:system-ui;
+    margin-left:-85px;
+}
+#pl
+{
+    color:white;
+    font-family:system-ui;
+    padding: 0 10px 0 30px;  
+}
+#pa
+{
+    color: white; 
+    margin: 7px 15px 0 0;
+    float: right;
+}
+#imgl
+{
+    height:40px; 
+    width:40px;
+    margin-left: 25px;
+}
+#pp
+{
+    color: white; 
+   display: inline;
+   float: right;
+   margin: 35px 40px 0 0;
+}
+#imgp
+{
+    height:40px; 
+    width:40px;
+    margin: 25px 0 0 25px;
+}
+#pm
+{
+    color: white; 
+   display: inline;
+   float: right;
+   margin: 40px 64px 0 0;
+}
+#imgm
+{
+    height:45px; 
+    width:45px;
+    margin: 25px 0 0 25px;
+}
+#pw
+{
+    color: white; 
+   display: inline;
+   float: right;
+   margin: 40px 128px 0 0;
+}
+#imgw
+{
+    height:40px; 
+    width:40px;
+    margin: 25px 0 0 25px;
+}
+.content1 h3
+{
+    color: rgb(89, 92, 145);
+    margin: 30px 0 0 40px;
+}
+.tb
+{
+    margin: 20px 0 0 35px;
+    width: 400px;
+    height: 300px;
+    
+}
+input[type="text"]
+{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 250px;
+}
+input[type="email"]
+{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 250px;
+}
+textarea[type="text"]
+{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 250px;
+}
+
+input[type="submit"]
+{
+    color:white;
+    background-color: rgb(41, 3, 255);
+    border: none;
+    padding: 5px;
+    border-radius: 4px;
+}
